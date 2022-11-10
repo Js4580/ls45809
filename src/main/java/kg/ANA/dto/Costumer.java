@@ -34,7 +34,7 @@ public class Costumer {
             restTemplate.postForEntity(url_1, res_1, String.class);
         }
     }
-    //привет я тут чутка поменяю
-    //fdafadsf
+    // Про Привет я тут чутка поменяю.
+    //Забыл просто написать вот такое сообщение
 
 }
